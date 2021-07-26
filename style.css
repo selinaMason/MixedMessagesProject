@@ -1,0 +1,40 @@
+@charset "iso-8859-1";
+/* CSS Document */
+
+body,
+html,
+#root {
+
+   height: 100%;
+
+}
+
+html {
+
+   font-size: 18px;
+
+}
+
+h1 {
+
+   padding: .77rem 0;
+   background-color: lightblue;
+   text-align: center;
+   font-family: sans-serif;
+   font-size: 1.88rem;
+   color: black;
+
+}
+
+p {
+
+   text-align: center;
+   font-family: sans-serif;
+
+}
+
+#btn1 {
+
+   margin: -10% 47%;
+
+}
